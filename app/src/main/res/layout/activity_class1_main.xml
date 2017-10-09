@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.example.administrator.hencoder.class1.widget.CustDrawClass1_工口
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <com.example.administrator.hencoder.class1.widget.椭圆圆弧
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <com.example.administrator.hencoder.class1.widget.爱心
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <com.example.administrator.hencoder.class1.widget.画直线1
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+        
+        <com.example.administrator.hencoder.class1.widget.画直线2
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <com.example.administrator.hencoder.class1.widget.画直线3
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+    </LinearLayout>
+</ScrollView>
